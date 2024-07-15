@@ -1,4 +1,4 @@
-module github.com/yuya-takeyama/qrcat
+module github.com/minoritea/qrcat
 
 go 1.12
 
